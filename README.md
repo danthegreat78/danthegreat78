@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel (@danthegreat78)
+# 👋 Hi, I'm Danesh (@danthegreat78)
 
 Welcome to my GitHub profile! I'm a passionate developer and robotics enthusiast, always eager to explore new technologies and collaborate on innovative projects.
 
