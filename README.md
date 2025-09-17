@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel (@danthegreat78)
 
-<!--
-**danthegreat78/danthegreat78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and robotics enthusiast, always eager to explore new technologies and collaborate on innovative projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Robotics programmer and automation fan
+- 💻 Experienced with Python, Java, C++, and embedded systems
+- 🛠️ Maker, tinkerer, and open-source advocate
+- 🌎 Interested in AI, machine learning, and IoT
+
+## 📫 How to Reach Me
+
+- Email: [danesh2020@icloud.com]
+- 
+## ⚡ Fun Fact
+
+I love building things that move, think, or interact with the world—whether it's robots, gadgets, or smart systems!
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories or connect with me for collaboration.
