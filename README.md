@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer and robotics enthusiast
 ## 🚀 About Me
 
 - 🤖 Robotics programmer and automation fan
-- 💻 Experienced with Python, Java, C++, and embedded systems
+- 💻 Experienced with Python, Java, and embedded systems
 - 🛠️ Maker, tinkerer, and open-source advocate
 - 🌎 Interested in AI, machine learning, and IoT
 
